@@ -1,0 +1,67 @@
+{
+  "header": {
+    "solutions": "Solutions",
+    "advantages": "Avantages",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Solutions technologiques",
+    "subtitle": "pour entreprises innovantes",
+    "description": "Optimisez vos processus, améliorez votre efficacité et transformez l'expérience utilisateur grâce à nos solutions technologiques sur mesure.",
+    "cta": {
+      "primary": "Commencer",
+      "secondary": "Découvrir"
+    },
+    "benefits": {
+      "custom": "Solutions sur mesure",
+      "free": "Premier mois gratuit",
+      "support": "Support 24/7"
+    }
+  },
+  "promo": {
+    "title": "Offre spéciale : Profitez du premier mois gratuit pour tester nos solutions !",
+    "titleShort": "Premier mois gratuit !",
+    "cta": "En savoir plus"
+  },
+  "solutions": {
+    "title": "Solutions sur mesure pour votre secteur",
+    "subtitle": "Des solutions abordables pour répondre à vos besoins spécifiques",
+    "timeManagement": {
+      "title": "Gestion du Temps",
+      "description": "Optimisez la gestion du temps et augmentez la productivité de vos équipes.",
+      "benefits": [
+        "Planification automatisée",
+        "Suivi en temps réel",
+        "Rapports de productivité",
+        "Prix très accessible"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Discutons de vos besoins et trouvons ensemble la solution adaptée à votre entreprise",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Envoyer",
+      "placeholders": {
+        "name": "Votre nom",
+        "email": "vous@exemple.com",
+        "message": "Votre message"
+      }
+    },
+    "info": {
+      "title": "Nos coordonnées",
+      "email": "contact@techsolutions.fr",
+      "phone": "01 23 45 67 89",
+      "location": "Paris, France"
+    }
+  },
+  "footer": {
+    "description": "Solutions technologiques innovantes pour entreprises modernes.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "rights": "Tous droits réservés."
+  }
+}

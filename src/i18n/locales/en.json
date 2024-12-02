@@ -1,0 +1,67 @@
+{
+  "header": {
+    "solutions": "Solutions",
+    "advantages": "Advantages",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Technological Solutions",
+    "subtitle": "for innovative companies",
+    "description": "Optimize your processes, improve efficiency and transform user experience through our customized technological solutions.",
+    "cta": {
+      "primary": "Get Started",
+      "secondary": "Discover"
+    },
+    "benefits": {
+      "custom": "Custom Solutions",
+      "free": "First Month Free",
+      "support": "24/7 Support"
+    }
+  },
+  "promo": {
+    "title": "Special Offer: Get your first month free to test our solutions!",
+    "titleShort": "First month free!",
+    "cta": "Learn More"
+  },
+  "solutions": {
+    "title": "Custom Solutions for Your Industry",
+    "subtitle": "Affordable solutions to meet your specific needs",
+    "timeManagement": {
+      "title": "Time Management",
+      "description": "Optimize time management and increase team productivity.",
+      "benefits": [
+        "Automated Planning",
+        "Real-time Tracking",
+        "Productivity Reports",
+        "Very Affordable Price"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let's discuss your needs and find the right solution for your business",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send",
+      "placeholders": {
+        "name": "Your name",
+        "email": "you@example.com",
+        "message": "Your message"
+      }
+    },
+    "info": {
+      "title": "Our Contact Details",
+      "email": "contact@techsolutions.com",
+      "phone": "+1 234 567 890",
+      "location": "New York, USA"
+    }
+  },
+  "footer": {
+    "description": "Innovative technological solutions for modern businesses.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}

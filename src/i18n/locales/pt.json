@@ -1,0 +1,67 @@
+{
+  "header": {
+    "solutions": "Soluções",
+    "advantages": "Vantagens",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Soluções Tecnológicas",
+    "subtitle": "para empresas inovadoras",
+    "description": "Otimize seus processos, melhore sua eficiência e transforme a experiência do usuário através de nossas soluções tecnológicas personalizadas.",
+    "cta": {
+      "primary": "Começar",
+      "secondary": "Descobrir"
+    },
+    "benefits": {
+      "custom": "Soluções Personalizadas",
+      "free": "Primeiro Mês Grátis",
+      "support": "Suporte 24/7"
+    }
+  },
+  "promo": {
+    "title": "Oferta especial: Aproveite o primeiro mês grátis para testar nossas soluções!",
+    "titleShort": "Primeiro mês grátis!",
+    "cta": "Saiba Mais"
+  },
+  "solutions": {
+    "title": "Soluções Personalizadas para seu Setor",
+    "subtitle": "Soluções acessíveis para atender suas necessidades específicas",
+    "timeManagement": {
+      "title": "Gestão de Tempo",
+      "description": "Otimize a gestão do tempo e aumente a produtividade da sua equipe.",
+      "benefits": [
+        "Planejamento Automatizado",
+        "Acompanhamento em Tempo Real",
+        "Relatórios de Produtividade",
+        "Preço Muito Acessível"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Vamos discutir suas necessidades e encontrar a solução certa para sua empresa",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "message": "Mensagem",
+      "submit": "Enviar",
+      "placeholders": {
+        "name": "Seu nome",
+        "email": "voce@exemplo.com",
+        "message": "Sua mensagem"
+      }
+    },
+    "info": {
+      "title": "Nossos Contatos",
+      "email": "contato@techsolutions.com.br",
+      "phone": "(11) 1234-5678",
+      "location": "São Paulo, Brasil"
+    }
+  },
+  "footer": {
+    "description": "Soluções tecnológicas inovadoras para empresas modernas.",
+    "navigation": "Navegação",
+    "contact": "Contato",
+    "rights": "Todos os direitos reservados."
+  }
+}
